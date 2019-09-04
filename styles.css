@@ -1,9 +1,10 @@
-<style>@import url('https://fonts.googleapis.com/css?family=Gloria+Hallelujah|Marck+Script&display=swap');
+<style>
+@import url('https://fonts.googleapis.com/css?family=Marck+Script&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Gloria+Hallelujah&display=swap');
 </style>
 
 .tiddler {
-    Font-family:"Gloria-Hallelujah", cursive;
+    Font-family:"Gloria-Hallelujah",
     color:#F5E191; }
     
 .tart {
