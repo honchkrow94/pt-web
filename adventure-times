@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+      <link rel="stylesheet" type="text/css" href="styles.css">
+    <link href="https://fonts.googleapis.com/css?family=Lacquer&display=swap" rel="stylesheet">
+
+    <title>Tiddler & Tart - Adventure Blogs</title>
+</head>
+
+<body style="background-color:black;">
+  
+  <div style="background-color:#381E05;">
+    <h1 style="text-align:center;font-size:60px;color:#F5E191;">The Advntures of Tiddler and Tart</em></h1>
+    <h2 class="tart" style="font-size:35px;text-align:center;">(Two guineas destined for trouble)</h2>
+    <br> 
+    <div align="center">
+      <a href="index.html" style="font-size:25px;color:white;">Guinea Homepage</a>&nbsp;&nbsp;&nbsp;<a href="tiddler.html" class="tidds" style="font-size:25px;">Tidds the Troublemaker</a>
+    </div>
+    </div>
+  <div style="background-color:gray;" align="center">
+    <br>e Guinea I
+    <p class="tart" style="font-size:25px;text-align:center;"> New Human! whEEEET!! <strong>Guinea ID sniffing</strong> Okay, i'll allow!<br> Welcome to my Biography! Unike Tiddler, I don't bite! I'm a friendly, fluffy guinea who loves cuddles and licking human faces for the salt content!Here's some pictures of me to show you how affectionate I am!</p>
+  </div>
+  <div align="center">
+    <img src="https://i.ibb.co/jf5rn5w/20180906-205407-1.jpg" alt="sleepy time in daddy's arms" border="0" height="310px" width="350px">
+    <img src="https://i.ibb.co/k4Wq2gD/IMG-20180823-183202-791-2.jpg" alt=""wheet! Chest time on Guinea Daddy's front balls!"" border="0" height="310px" width="350px">
+    <img src="https://i.ibb.co/yY8mfMc/IMG-20181024-171750-750-1.jpg" alt="wheet! Picture of my being held by Guinea Daddy" border="0" height="310px" width="350px">
+  <br>
+  <div align="centre">
+    <p class="tart" style="font-size:22px;text-align:center;">Wheet! Cute, right? <br><br> I'm not a complex guinea, just a guinea with fine taste and a comfortable life. I was born into a lesbian family and, ironically, got adopted into another LGBT family! I love Mommy and Big Guinea Daddy, they provide great guinea treats and, more importantly, company! I missed out on company early on in my life and get very lonely, so need extra cuddles.
+    <br><br> I'm also the inventor of the most efficient Guinea communication (and affection) between myself and Daddy - The Nibble Lick!! You lick and nibble at the same time. If Daddy asks me a question, I'll lick for yes and nip for no - like a downvote on (f)reddit 
+</body>
+
+</html>
